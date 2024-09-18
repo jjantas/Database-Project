@@ -1,0 +1,9 @@
+str,str,date,int,str
+Jakub,Skibicki,5.4.2004,190,Warszawa
+Jan,Kowalski,1.1.1985,170,Olsztyn
+Anna,Nowak,10.2.2000,168,Krakow
+Maria,Wisniewska,10.3.1995,171,Szczecin
+Agata,Osuch,11.11.1979,166,Lublin
+Michal,Pedziwiatr,20.4.2005,190,Warszawa
+Wojtek,Zieziula,8.7.2009,185,Kazachstan
+Jakub,Kwasniak,1.2.2000,185,Opole Lubelskie
